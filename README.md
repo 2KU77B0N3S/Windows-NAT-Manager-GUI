@@ -20,7 +20,9 @@
 
 ## Installation
 
-Run the installer to install the application on your system.
+Use the powershell file if you don't trust my Setup file.
+The Setup is only needed if you want the GUI in the Start Menu.
+It just made a PS2EXE with the .ps1 File and made a simple Installer.
 
 ## Usage
 
