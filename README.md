@@ -2,6 +2,8 @@
 
 **Windows NAT Manager GUI** is a lightweight Windows application that simplifies the management of NAT (Network Address Translation) configurations on your system. Built with PowerShell and Windows Forms, this tool allows you to easily add, edit, and delete static NAT mappings as well as manage NAT networks—all through an intuitive graphical user interface.
 
+![Screenshot](preview.png)
+
 ## Features
 
 - **Easy NAT Mapping Management:** Quickly view, add, edit, and remove static NAT mappings.
